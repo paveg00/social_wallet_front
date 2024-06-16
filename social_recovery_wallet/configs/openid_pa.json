@@ -1,0 +1,30 @@
+Hello sub: 109956066558145320273
+Hello aud: 892021943047-4uss7i965lcnhv9dvhjgd5btm3140b9o.apps.googleusercontent.com
+Hello exp: 1717355577
+Hello iat: 1717351977
+Hello iss: https://accounts.google.com
+Hello scope: openid
+Hello open_id_token: eyJhbGciOiJSUzI1NiIsImtpZCI6IjY3NGRiYmE4ZmFlZTY5YWNhZTFiYzFiZTE5MDQ1MzY3OGY0NzI4MDMiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJodHRwczovL2FjY291bnRzLmdvb2dsZS5jb20iLCJhenAiOiI4OTIwMjE5NDMwNDctNHVzczdpOTY1bGNuaHY5ZHZoamdkNWJ0bTMxNDBiOW8uYXBwcy5nb29nbGV1c2VyY29udGVudC5jb20iLCJhdWQiOiI4OTIwMjE5NDMwNDctNHVzczdpOTY1bGNuaHY5ZHZoamdkNWJ0bTMxNDBiOW8uYXBwcy5nb29nbGV1c2VyY29udGVudC5jb20iLCJzdWIiOiIxMDk5NTYwNjY1NTgxNDUzMjAyNzMiLCJhdF9oYXNoIjoiUzdkY21RSnMxOVlPSjdYbWtOUXF2ZyIsIm5vbmNlIjoiNjNkZmE4N2Y0YTFmMmZmZjk5YzJmNWE4YTMzZTc4ZmQ1ZWVjZDQ3M2FiZTM3OTM1YjkzMmY0OWE5MTNlNTQ1MSIsImlhdCI6MTcxNzM1MTk3NywiZXhwIjoxNzE3MzU1NTc3fQ.viWuG5Z-Pj-qK_KdAoM5TCq6RrUKS9lzIZq7ubSifA1cDGn5DTQiMADOA_XLh4MC834Si-Gm6zZi6Gac7uDdBncgcV7ilGfydY4Ndg2g4i7O9bhpE-9WnilYg5Df5N98uGcYvFPZQ87uxsHl_IMMWkzz408ntpJ5Y9Y8vRWtt2-LCEE0MZNWNn9qw_U2jaix25OVsrdDcZRI8QgijUo0cl5Yp64MUsVVvQJDkCiK1Ld_-RDU1_ZdhEnCNZMC1_AAkhwwRq2vXdUTJRDcALEC6LrIeSufkI8npvpuxGsf7mutY5JtcDpM1rAX4scPtRt7dCQYWjwDBudhmMyBh8Z5Yw
+Hello nonce: 63dfa87f4a1f2fff99c2f5a8a33e78fd5eecd473abe37935b932f49a913e5451
+
+
+{
+  "alg": "RS256",
+  "kid": "674dbba8faee69acae1bc1be190453678f472803",
+  "typ": "JWT"
+}
+
+{
+  "iss": "https://accounts.google.com",
+  "azp": "892021943047-4uss7i965lcnhv9dvhjgd5btm3140b9o.apps.googleusercontent.com",
+  "aud": "892021943047-4uss7i965lcnhv9dvhjgd5btm3140b9o.apps.googleusercontent.com",
+  "sub": "109956066558145320273",
+  "at_hash": "S7dcmQJs19YOJ7XmkNQqvg",
+  "nonce": "63dfa87f4a1f2fff99c2f5a8a33e78fd5eecd473abe37935b932f49a913e5451",
+  "iat": 1717351977,
+  "exp": 1717355577
+}
+
+
+Pass bzz-bdq-FR7-aWu
+pavelegorov696@gmail.com
